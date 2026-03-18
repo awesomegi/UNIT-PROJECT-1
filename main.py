@@ -3,7 +3,6 @@ from modules.utils import get_leaderboard
 from modules.display import show_leaderboard
 import pyfiglet
 
-import pyfiglet
 
 if __name__ == "__main__":
     title = pyfiglet.figlet_format("CineQuiz", font="slant")
